@@ -35,3 +35,7 @@ Botón **"HISTORIAL"** en la pantalla principal, busca la factura en la lista y 
 ## ¿Qué son esas letras raras al final del ticket (Huella / NO VERI*FACTU)?
 
 Es la parte técnica que exige la nueva ley para que las facturas no se puedan falsificar. No tienes que hacer nada con ello. Explicación completa en [07-que-es-verifactu.md](07-que-es-verifactu.md).
+
+## ¿Y si mi duda no está en esta lista?
+
+Escribe por WhatsApp al **605289646**, solo chat — se contesta antes por mensaje que por llamada.

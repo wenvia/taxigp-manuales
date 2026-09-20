@@ -10,3 +10,7 @@ Guías para que cualquier taxista pueda usar la app sin liarse. Cada archivo tra
 6. [Historial de carreras y reimprimir un ticket](06-historial-y-reimpresion.md)
 7. [Qué es eso de "NO VERI*FACTU" que sale en el ticket](07-que-es-verifactu.md)
 8. [Preguntas frecuentes y problemas comunes](08-preguntas-frecuentes.md)
+
+## ¿Dudas que no están aquí?
+
+Escribe por WhatsApp al **605289646** — solo chat, por favor (no hace falta llamar, se contesta antes por mensaje).
