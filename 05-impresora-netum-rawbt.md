@@ -2,6 +2,8 @@
 
 Este manual explica cómo dejar lista la impresora térmica NETUM NT-1809 para que TaxiGP imprima los tickets automáticamente al finalizar cada carrera. TaxiGP no imprime directamente: le manda el ticket a una app llamada **RawBT**, y es RawBT quien habla con la impresora por Bluetooth.
 
+Este modelo se eligió, entre otras razones, por estética: es totalmente negra, discreta, nada llamativa dentro del taxi. Si tienes otro modelo de la misma familia NETUM (térmica, 58mm, Bluetooth), la configuración con RawBT es prácticamente igual — los pasos de este manual deberían servir igualmente.
+
 ## Lo que hace falta
 
 - La impresora térmica NETUM NT-1809 cargada (o enchufada) y encendida.
@@ -33,6 +35,10 @@ Este manual explica cómo dejar lista la impresora térmica NETUM NT-1809 para q
 4. En la lista de dispositivos Bluetooth, selecciona la impresora NETUM que ya emparejaste en el Paso 1.
 5. En el tamaño de papel, elige **58 mm** (es el ancho de rollo que usa la NT-1809).
 6. Si RawBT ofrece una opción de "imprimir ticket de prueba", pruébala: debería salir un texto de ejemplo por la impresora. Si sale, ya está todo conectado correctamente.
+
+Así tiene que quedar la pantalla de "Ajustes" de RawBT cuando está todo bien hecho — con tu impresora marcada con el círculo azul en "Sus impresoras":
+
+![Pantalla de Ajustes de RawBT con la impresora Bluetooth ya seleccionada](imagenes/rawbt-impresora-seleccionada.jpg)
 
 ## Paso 4: Usar TaxiGP con la impresora ya lista
 
